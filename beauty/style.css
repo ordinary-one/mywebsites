@@ -1,0 +1,135 @@
+body {
+    background-color: #FFF;
+    margin: 10px 120px auto;
+}
+
+.top {
+    font-family: cursive, Helvetica, sans-serif;
+    display: block;
+    text-align: left;
+    border: 1px solid #FFF;
+    margin: 0px auto;
+}
+
+.top a {
+    text-decoration: none;
+    color: #2E2E2E;
+    font-size: 35px;
+    padding: 10px px
+}
+
+.top a:hover {
+    color: #C0BFBF;
+}
+
+/* how to hide it when the window is small*/
+#search {
+    border: 1px solid #ccc;
+    margin: 0px 160px 0px 120px;
+    padding-right: 120px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+/*input!!*/
+#account {
+    padding: 6px 55px;
+    text-align: left;
+}
+
+#password {
+    padding: 6px 55px;
+    text-align: left;
+}
+
+nav {
+    display: block;
+    margin: 2% 1% 0% 9%;
+    font-family: monospace, sans-serif;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    display: block;
+    float: left;
+    padding: 1% 2%;
+}
+
+nav a:hover {
+    background-color: #BCBABA;
+    color: #000;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    margin: 2.3% 1% 2% 0%;
+}
+
+.sale {
+    border: 1px solid #000;
+    background-color: #000;
+    text-align: center;
+    padding: 1%;
+}
+
+.sale a {
+    text-decoration: none;
+    color: #F9F7F7;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.slider {
+    border: 1px none #000;
+    margin-top: 10px;
+}
+
+.slider img{
+    width: 100%;
+}
+
+.TonImg {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    text-align: center;
+}
+
+.line1 {
+    font: 25px serif;
+}
+
+.line2 {
+    font: 35px serif;
+}
+
+.line3 {
+    font: 16px fantasy, sans-serif;
+}
+
+.rest {
+    font: 12px monospace, sans-serif;
+}
+
+.but {
+    border: 1px solid #000;
+    background-color: #222222;
+    width: 8%;
+    position: absolute;
+    bottom: 12%;
+    left: 20%;
+    text-align: center;
+}
+
+.but a {
+    text-decoration: none;
+    font-size: 17px;
+    color: #FFF;
+}
