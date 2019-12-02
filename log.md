@@ -1,4 +1,4 @@
-*** Log: What to do next time ***
+***Log: What to do next time***
 
 1. 12.02.2019
    1. implement more types of hr
