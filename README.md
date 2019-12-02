@@ -1,1 +1,1 @@
-### My exercises for html, css and javascript
+#### Exercises for html, css and javascript
